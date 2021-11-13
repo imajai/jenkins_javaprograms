@@ -1,5 +1,5 @@
 //this is comment
-public class Prime-2 {
+public class NewPrime {
 
     public static void main(String[] args) {
 
